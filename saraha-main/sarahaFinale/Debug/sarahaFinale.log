@@ -1,0 +1,4 @@
+﻿  User.cpp
+D:\Visual Studio Projects\sarahaFinale\User.cpp(137,27): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Projects\sarahaFinale\User.cpp(158,23): warning C4018: '<': signed/unsigned mismatch
+  sarahaFinale.vcxproj -> D:\Visual Studio Projects\sarahaFinale\Debug\sarahaFinale.exe
